@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-meeting-log/static/css/main.b7a9d8b7.chunk.css",
+    "main.js": "/react-meeting-log/static/js/main.f854fe50.chunk.js",
+    "main.js.map": "/react-meeting-log/static/js/main.f854fe50.chunk.js.map",
+    "runtime-main.js": "/react-meeting-log/static/js/runtime-main.f4f248d9.js",
+    "runtime-main.js.map": "/react-meeting-log/static/js/runtime-main.f4f248d9.js.map",
+    "static/css/2.6ff57dad.chunk.css": "/react-meeting-log/static/css/2.6ff57dad.chunk.css",
+    "static/js/2.139df597.chunk.js": "/react-meeting-log/static/js/2.139df597.chunk.js",
+    "static/js/2.139df597.chunk.js.map": "/react-meeting-log/static/js/2.139df597.chunk.js.map",
+    "static/js/3.eea44957.chunk.js": "/react-meeting-log/static/js/3.eea44957.chunk.js",
+    "static/js/3.eea44957.chunk.js.map": "/react-meeting-log/static/js/3.eea44957.chunk.js.map",
+    "index.html": "/react-meeting-log/index.html",
+    "static/css/2.6ff57dad.chunk.css.map": "/react-meeting-log/static/css/2.6ff57dad.chunk.css.map",
+    "static/css/main.b7a9d8b7.chunk.css.map": "/react-meeting-log/static/css/main.b7a9d8b7.chunk.css.map",
+    "static/js/2.139df597.chunk.js.LICENSE.txt": "/react-meeting-log/static/js/2.139df597.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4f248d9.js",
+    "static/css/2.6ff57dad.chunk.css",
+    "static/js/2.139df597.chunk.js",
+    "static/css/main.b7a9d8b7.chunk.css",
+    "static/js/main.f854fe50.chunk.js"
+  ]
+}
