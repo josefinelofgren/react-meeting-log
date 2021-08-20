@@ -1,4 +1,4 @@
-# React meeting log"
+# React meeting log
 
 This app uses Firebase as a database. The application is deployed at github pages.
 
