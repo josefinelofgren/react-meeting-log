@@ -1,6 +1,6 @@
 # React meeting log
 
-This app uses Firebase as a database. The application is deployed at github pages.
+This app is built with React/Bootstrap and uses Firebase as a database. The application is deployed at github pages.
 
 ## Run app live 
 
