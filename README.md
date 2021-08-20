@@ -10,6 +10,6 @@ Visit: [https://josefinelofgren.github.io/react-meeting-log/](https://josefinelo
 #### The app allows you to:
 
 - Create a new user / login / logout
-- Create new meetings
+- Create new meetings / delete meetings
 - Check-in to meetings
 - Check attendance of meetings
